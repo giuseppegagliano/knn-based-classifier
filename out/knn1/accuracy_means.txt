@@ -1,0 +1,10 @@
+************************* Dataset appendicitis-10 (8 attributes) *************************
+classifier		mean(training)		mean(testing)
+ibk		100.0		80.27272727272728
+sco		98.84758771929826		83.9090909090909
+lin		100.0		83.9090909090909
+************************* Dataset australian-10 (15 attributes) *************************
+classifier		mean(training)		mean(testing)
+ibk		100.0		81.15942028985508
+sco		64.92753623188405		58.69565217391304
+lin		91.73913043478261		78.84057971014491
